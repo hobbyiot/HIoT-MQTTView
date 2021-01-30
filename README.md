@@ -30,7 +30,7 @@ The HobbyIoT MQTTView device is based on ESP8266 NodeMCU module. It connects to 
 	<img src="https://www.codrey.com/wp-content/uploads/2018/06/5V-to-3V3-LCD-Hack-1.jpg" width="50%" align="center"/>
 </p>
 
-The full connection schematic is according by circuitdigest.com publication here: https://circuitdigest.com/sites/default/files/inlineimages/u/Interfacing-circuit-diagram-of-LCD-with-ESP12-without-using-Shift-Register.png
+The connection schematic (by circuitdigest.com): https://circuitdigest.com/sites/default/files/inlineimages/u/Interfacing-circuit-diagram-of-LCD-with-ESP12-without-using-Shift-Register.png
 
 <p align="center">
 	<img src="https://circuitdigest.com/sites/default/files/inlineimages/u/Interfacing-circuit-diagram-of-LCD-with-ESP12-without-using-Shift-Register.png" width="50%" align="center"/>
