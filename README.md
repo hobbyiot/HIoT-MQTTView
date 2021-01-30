@@ -40,3 +40,7 @@ The full connection schematic is according by circuitdigest.com publication here
 ## Operation
 
 The HobbyIoT MQTTView device needs a small configuration for WiFi credentials, MQTT broker and topics to display data from. Once it's powered on an MQTT connection to the predefined broker is attempted. Once connected, the topics are being subscribed and the device waiting for further data. Other tunning could be required is related with the data nature to be displayed. The exact type, position and unit could be also predefined within the code. All the settings are currently hardcoded into device.
+
+## Versions
+
+Current version is V1.
