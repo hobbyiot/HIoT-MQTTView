@@ -2,9 +2,7 @@
 	<img src="https://github.com/sivanovbg/MQTT-SN_GW_802154_V1/blob/master/HIoT%20GW%20Pictures/HobbyIoT%20Logo.png?raw=true" width="10%" align="right"/>
 </p>
 
-# HobbyIoT MQTTView (under construction)
-
-
+# HobbyIoT MQTTView
 
 ## Summary
 
